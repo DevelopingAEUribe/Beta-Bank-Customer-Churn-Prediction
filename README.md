@@ -69,6 +69,6 @@ Run each cell/section step by step
 bash
 Copy
 Edit
-git clone https://github.com/DevelopingAEUribe/beta-bank-churn.git
+git clone (https://github.com/DevelopingAEUribe/Beta-Bank-Customer-Churn-Prediction/tree/main)
 📬 Contact
 Created by Adam Edwards-Uribe
